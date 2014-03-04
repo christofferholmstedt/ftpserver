@@ -1,9 +1,11 @@
 FTPServer with Vagrant
 ======================
-Sometimes I need to upload some images to my computer from cellphone or
+Sometimes I need to upload some files to my computer from cellphone or
 similiar device and I always find it to be a hassle to set up a FTP server.
 Here is a very simple Vagrant configuration that sets up pure-ftpd in an Ubuntu
 12.04 machine.
+
+If you have any suggestions on how to improve this please request a pull.
 
 ### Keywords
 Vagrant, PureFTPd, FTP server
